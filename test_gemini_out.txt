@@ -1,0 +1,4 @@
+Testing at: 17:55:55
+FAIL 429: gemini-2.0-flash-lite => You exceeded your current quota, please check your plan and billing details. For more information on [retry in 264129209s]
+FAIL 429: gemini-2.0-flash => You exceeded your current quota, please check your plan and billing details. For more information on [retry in 011786852s]
+OK: gemini-2.5-flash => Sounds good!

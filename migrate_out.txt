@@ -1,0 +1,5 @@
+
+   INFO  Running migrations.  
+
+  2026_06_01_add_reminder_email_to_users ................. 284.07ms DONE
+
